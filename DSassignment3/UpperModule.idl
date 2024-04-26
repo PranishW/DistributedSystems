@@ -1,0 +1,6 @@
+module UpperModule {
+    interface UpperIntf 
+    {
+        public string upperstring(in string str);
+    };
+};
